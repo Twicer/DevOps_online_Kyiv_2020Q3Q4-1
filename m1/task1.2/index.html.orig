@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+<img src="https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/m1/task/1.2/images/im1.png">
+=======
+<html> 
+ <head>  
+  <title>DevOps</title> 
+  <link rel='StyleSheet' href='styles.css' /> 
+ </head> 
+ <body> 
+  <h1>EPAM DevOps Online Program</h1> 
+ </body> 
+</html> 
+
+>>>>>>> styles
