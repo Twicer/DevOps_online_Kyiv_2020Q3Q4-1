@@ -1,5 +1,5 @@
 Firstly I cloned repo to my workstation and made repository structure.
-https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/tree/master/m1/task1.2/images
+https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/tree/master/m1/task1.2/images/im1.PNG
 
 Then made my first commit to this repo and created the new branch.
 https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/blob/master/m1/task1.2/images/im2.PNG
