@@ -18,5 +18,6 @@ https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/blob/master/m1/task1.2/i
 
 Getting the results of reflog command to .txt file
 https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/blob/master/m1/task1.2/images/im7.PNG
+https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/blob/master/m1/task1.2/im7.PNG
 
 Now i am finishing this readme.md file!
