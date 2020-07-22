@@ -1,5 +1,4 @@
 Firstly I cloned repo to my workstation and made repository structure.
-https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/tree/master/m1/task1.2/images/im1.PNG
 ![alt text](/m1/task1.2/images/im1.PNG)/ <br />
 
 Then made my first commit to this repo and created the new branch.
