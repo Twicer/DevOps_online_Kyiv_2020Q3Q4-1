@@ -58,4 +58,4 @@ Features of Citrix XenServer:
     Mixed Resource Pools with CPU Masking
     Distributed Virtual Switch Controller
     In Memory read caching
-    Live VM migration & Storage XenMotion
+    Live VM migration & Storage XenMotion 
