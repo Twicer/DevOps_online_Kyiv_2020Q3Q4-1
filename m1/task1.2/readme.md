@@ -20,3 +20,4 @@ Getting the results of reflog command to .txt file
 ![alt text](/m1/task1.2/images/im7.PNG) <br />
 
 Now i am finishing this readme.md file!
+ 
