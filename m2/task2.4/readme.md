@@ -7,3 +7,4 @@
 ![alt text](/m2/task2.4/awsECS7.PNG) <br />
 ![alt text](/m2/task2.4/awsECS8.PNG) <br />
 ![alt text](/m2/task2.4/awsECS9.PNG) <br />
+ 
