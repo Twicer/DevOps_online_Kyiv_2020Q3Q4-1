@@ -49,4 +49,5 @@
 
 <b>Посилання на файли з проектами:</b> <br />
 https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/blob/master/m4/task4.1/Project_1.pkt <br />
-![alt text](/m4/task4.1/Project_1.pkt) <br />
+https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/blob/master/m4/task4.1/Project_2.pkt <br />
+https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/blob/master/m4/task4.1/Project_3.pkt <br />
