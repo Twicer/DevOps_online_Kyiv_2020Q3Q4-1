@@ -15,3 +15,6 @@
 
 Перевіряємо доступність вузлів в мережі <br />
 ![alt text](/m4/task4.3/ICMP.PNG) <br />
+
+<b>Посилання на файл проекту:</b> </br>
+https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/blob/master/m4/task4.3/task4.3.pkt
