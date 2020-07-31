@@ -18,3 +18,5 @@
 ![alt text](/m2/task2.3/awsSB2.PNG) <br />
 ![alt text](/m2/task2.3/awsSB3.PNG) <br />
  
+<b>Static site in S3:</b>
+https://staticwebsiteremaieva.s3.amazonaws.com/index.html
