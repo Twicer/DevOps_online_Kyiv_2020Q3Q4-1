@@ -5,6 +5,7 @@ Creating VM1 <br />
 
 Installing Ubuntu <br />
 ![alt text](/m2/task2.2/Install.PNG) <br />
+![alt text](/m2/task2.2/Ubuntu.PNG) <br />
 
 Cloning an existing VM1 <br /> 
 ![alt text](/m2/task2.2/Clone.PNG) <br />
