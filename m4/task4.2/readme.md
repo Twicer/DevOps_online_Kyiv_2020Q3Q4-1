@@ -20,5 +20,33 @@
 ![alt text](/m4/task4.2/Routers.PNG) <br />
 
 <b>Посилання на файли проекту:</b> <br />
-https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/blob/master/m4/task4.2/task4.2_1.pkt
-https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/blob/master/m4/task4.2/task4.2_1(2).pkt
+https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/blob/master/m4/task4.2/task4.2_1.pkt <br />
+https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/blob/master/m4/task4.2/task4.2_1(2).pkt <br />
+
+<b>Завдання 2</b> <br/>
+Необхідно змоделювати корпоративну мережу організації, яка містить 1 будинок з чотирма поверхами. Горизонтальна підсистема поверху складається з двох робочих груп по 3 і 5 комп'ютерів відповідно. Провести логічну структуризацію мережі на 8 підмереж (відповідно до кількості робочих груп). Провести аналіз працездатності мережі і її трафіку. <br/>
+
+Змодельовано мережу, яка містить 8 підмереж за допомогою комутаторів  <br />
+![alt text](/m4/task4.2/Network(2).PNG) <br />
+
+Прописуємо влани на відповідних портах комутаторів switch 0, 1, 2, 3.  <br />
+![alt text](/m4/task4.2/Vlan_conf.PNG) <br />
+
+Проводимо конфігурацію вланів на відповідних портах для всіх 8 підмереж <br />
+![alt text](/m4/task4.2/Vlan_fa.PNG) <br />
+
+Перевіряємо правильність налаштування вланів <br />
+![alt text](/m4/task4.2/Vlan_brief.PNG) <br />
+
+Налаштовуємо центральний комутатор, а саме транк порти для відповідних вланів <br />
+![alt text](/m4/task4.2/Central.PNG) <br />
+
+Кінцева конфігурація для портів центрального комутатора <br />
+![alt text](/m4/task4.2/Central_conf.PNG) <br />
+
+Проводимо аналіз працездатності мережі <br />
+![alt text](/m4/task4.2/Ping.PNG) <br />
+Як бачимо пінг проходить на пк в одній підмережі та не проходить в різних <br />
+
+<b>Посилання на файли проекту:</b> <br />
+https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/blob/master/m4/task4.2/task4.2_2.pkt<br />
