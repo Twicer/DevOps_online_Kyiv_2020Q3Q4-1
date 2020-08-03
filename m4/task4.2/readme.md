@@ -70,10 +70,9 @@ https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/blob/master/m4/task4.2/t
 ![alt text](/m4/task4.2/sub.PNG) <br />
 
 Перевіряємо доступність мережі <br />
-![alt text](/m4/task4.2/Ping3.PNG) <br />
-
-Спостерігаємо, що на пк з відповідним вланом пінгується відповідний сабінтерфейс на маршрутизаторі
 ![alt text](/m4/task4.2/ping_m.PNG) <br />
+Спостерігаємо, що на пк з відповідним вланом пінгується відповідний сабінтерфейс на маршрутизаторі <br />
+
 
 <b>Посилання на файл проекту:</b> <br />
 https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/blob/master/m4/task4.2/task4.2_3.1.pkt<br />
