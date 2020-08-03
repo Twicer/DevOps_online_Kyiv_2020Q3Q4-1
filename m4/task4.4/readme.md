@@ -18,5 +18,8 @@
 ![alt text](/m4/task4.4/google.PNG) <br />
 ![alt text](/m4/task4.4/yandex.PNG) <br />
 
+Також пропінгуємо ПК в одній підмережі
+![alt text](/m4/task4.4/ping.PNG) <br />
+
 <b>Посилання на файл проекту:</b> <br />
 https://github.com/remaieva/DevOps_online_Kyiv_2020Q3Q4/blob/master/m4/task4.4/task4.4.pkt <br />
