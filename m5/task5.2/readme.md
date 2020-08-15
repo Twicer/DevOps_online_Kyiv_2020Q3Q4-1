@@ -5,7 +5,7 @@ List of **root** directory **/** content in long list format. <br />
 **ls** <br />
 List of directory content. <br />
 
-**ls ~**<br />
+**ls ~** <br />
 List of **home** directory **~** content. <br />
 
 **ls -l** <br />
