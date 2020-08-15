@@ -11,13 +11,13 @@ List of `home` directory `~` content. <br />
 `ls -l` <br />
 List of current directory content in long list format. <br />
 
-ls -a <br />
+`ls -a` <br />
 List of current directory content including hidden files. <br />
 
-ls -la <br />
+`ls -la` <br />
 List of current directory content including hidden files in long list format <br />
 
-ls -lda ~ <br />
+`ls -lda ~` <br />
 List of `home` directory itself including hidden files in long list format <br />
 ![alt text](/m5/task5.2/Linux2.2.PNG) <br />
 ![alt text](/m5/task5.2/Linux2.3.PNG) <br />
