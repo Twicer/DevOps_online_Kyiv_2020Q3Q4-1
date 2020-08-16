@@ -19,4 +19,6 @@ In `/etc/shadow` we can see information about accounts in current systems like l
 ![alt text](/m5/task5.4/Linux4.16.PNG) <br />
 ![alt text](/m5/task5.4/Linux4.17.PNG) <br />
 ![alt text](/m5/task5.4/Linux4.18.PNG) <br />
+
+It is **possible** to forbid access for owner of the file by executing command `chmod u-rwx /file_name`
 ![alt text](/m5/task5.4/Linux4.19.PNG) <br />
