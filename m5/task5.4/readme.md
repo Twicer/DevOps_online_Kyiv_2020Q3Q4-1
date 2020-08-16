@@ -10,6 +10,7 @@
 ![alt text](/m5/task5.4/Linux4.10.PNG) <br />
 ![alt text](/m5/task5.4/Linux4.11.PNG) <br />
 ![alt text](/m5/task5.4/Linux4.12.PNG) <br />
+In `/etc/shadow` we can see information about accounts in current systems like login names, encrypted passwords etc. `shadow` file must to be unreadeble for **regular users** if `/etc/passwd` is in use. `/etc/passwd` file aims at user _account_ details while `/etc/shadow` aims at user's _password_ details. `passwd` file is world readable. shadow file can only be read by **root** account.
 ![alt text](/m5/task5.4/Linux4.13.PNG) <br />
 ![alt text](/m5/task5.4/Linux4.14.PNG) <br />
 ![alt text](/m5/task5.4/Linux4.15.PNG) <br />
