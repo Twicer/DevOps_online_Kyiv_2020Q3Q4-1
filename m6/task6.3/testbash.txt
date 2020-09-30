@@ -1,0 +1,21 @@
+#!/bin/bash
+bold=$(tput bold)
+normal=$(tput sgr0)
+
+if [ "$1" = "--all" ]; then
+	echo "Scanning..."
+	exec nmap -T5 -sP 192.168.0.0-255 | sed 1,2d | sed 's/Nmap/Scanning/'
+elif [ "$1" = "--target" ]; then
+	echo -e "Please enter the target host... \n vvvvv"
+	read target
+	echo " "
+	echo "Scanning..."
+	echo " "
+	exec nmap -sT $target | sed 1,5d | sed '$d'
+elif [ "$1" = "--help" ]; then
+	echo "The ${bold}--all${normal} key displays the IP addresses and symbolic names of all hosts in the current subnet."
+	echo "The ${bold}--target${normal} key displays a list of open system TCP ports."
+	echo "The ${bold}--help${normal} key displays help."
+else 
+	echo "Please enter an argument. Type ${bold}--help${normal} to see help."
+fi
