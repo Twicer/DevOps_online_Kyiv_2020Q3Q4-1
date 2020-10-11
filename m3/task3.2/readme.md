@@ -7,3 +7,4 @@
 ![alt text](/m3/task3.2/MySQL.2.7.PNG) <br />
 ![alt text](/m3/task3.2/MySQL.2.8.PNG) <br />
 ![alt text](/m3/task3.2/MySQL.2.9.PNG) <br />
+ 
